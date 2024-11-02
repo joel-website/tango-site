@@ -1,0 +1,282 @@
+[
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "een boek gelezen",
+        "main_verb": "gelezen",
+        "infinitive": "lezen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "het huis schoongemaakt",
+        "main_verb": "schoongemaakt",
+        "infinitive": "schoonmaken"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "een film gezien",
+        "main_verb": "gezien",
+        "infinitive": "zien"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de keuken opgeruimd",
+        "main_verb": "opgeruimd",
+        "infinitive": "opruimen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de auto gewassen",
+        "main_verb": "gewassen",
+        "infinitive": "wassen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "met de trein gereisd",
+        "main_verb": "gereisd",
+        "infinitive": "reizen"
+    },
+    {
+        "subject": "U",
+        "aux": "heeft",
+        "complement": "de les begrepen",
+        "main_verb": "begrepen",
+        "infinitive": "begrijpen"
+    },
+    {
+        "subject": "Het",
+        "aux": "heeft",
+        "complement": "goed gewerkt",
+        "main_verb": "gewerkt",
+        "infinitive": "werken"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de krant gelezen",
+        "main_verb": "gelezen",
+        "infinitive": "lezen"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "het boek teruggebracht",
+        "main_verb": "teruggebracht",
+        "infinitive": "terugbrengen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "het probleem opgelost",
+        "main_verb": "opgelost",
+        "infinitive": "oplossen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de taart gebakken",
+        "main_verb": "gebakken",
+        "infinitive": "bakken"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "de stad bezocht",
+        "main_verb": "bezocht",
+        "infinitive": "bezoeken"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de vragen beantwoord",
+        "main_verb": "beantwoord",
+        "infinitive": "beantwoorden"
+    },
+    {
+        "subject": "U",
+        "aux": "heeft",
+        "complement": "de details ontvangen",
+        "main_verb": "ontvangen",
+        "infinitive": "ontvangen"
+    },
+    {
+        "subject": "Het",
+        "aux": "heeft",
+        "complement": "een goede score gehaald",
+        "main_verb": "gehaald",
+        "infinitive": "halen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de foto's gemaakt",
+        "main_verb": "gemaakt",
+        "infinitive": "maken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de lichten uitgezet",
+        "main_verb": "uitgezet",
+        "infinitive": "uitzetten"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de email verzonden",
+        "main_verb": "verzonden",
+        "infinitive": "verzenden"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "ons huis verhuurd",
+        "main_verb": "verhuurd",
+        "infinitive": "verhuren"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "het probleem besproken",
+        "main_verb": "besproken",
+        "infinitive": "bespreken"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de boodschap doorgegeven",
+        "main_verb": "doorgegeven",
+        "infinitive": "doorgeven"
+    },
+    {
+        "subject": "U",
+        "aux": "heeft",
+        "complement": "de cursus afgerond",
+        "main_verb": "afrond",
+        "infinitive": "afronden"
+    },
+    {
+        "subject": "Het",
+        "aux": "heeft",
+        "complement": "veel geregend",
+        "main_verb": "geregend",
+        "infinitive": "regenen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "de soep gekookt",
+        "main_verb": "gekookt",
+        "infinitive": "koken"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "je haar geknipt",
+        "main_verb": "geknipt",
+        "infinitive": "knippen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "de kaarten gekocht",
+        "main_verb": "gekocht",
+        "infinitive": "kopen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "samen geluncht",
+        "main_verb": "geluncht",
+        "infinitive": "lunchen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een nieuwe fiets gekregen",
+        "main_verb": "gekregen",
+        "infinitive": "krijgen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de uitnodiging verstuurd",
+        "main_verb": "verstuurd",
+        "infinitive": "versturen"
+    },
+    {
+        "subject": "U",
+        "aux": "heeft",
+        "complement": "de instructies gevolgd",
+        "main_verb": "gevolgd",
+        "infinitive": "volgen"
+    },
+    {
+        "subject": "Het",
+        "aux": "heeft",
+        "complement": "de hele dag gesneeuwd",
+        "main_verb": "gesneeuwd",
+        "infinitive": "sneeuwen"
+    },
+    {
+        "subject": "Ik",
+        "aux": "heb",
+        "complement": "het rapport geschreven",
+        "main_verb": "geschreven",
+        "infinitive": "schrijven"
+    },
+    {
+        "subject": "Jij",
+        "aux": "hebt",
+        "complement": "de vergadering gepland",
+        "main_verb": "gepland",
+        "infinitive": "plannen"
+    },
+    {
+        "subject": "Hij",
+        "aux": "heeft",
+        "complement": "zijn examen gehaald",
+        "main_verb": "gehaald",
+        "infinitive": "halen"
+    },
+    {
+        "subject": "Wij",
+        "aux": "hebben",
+        "complement": "de afspraken bevestigd",
+        "main_verb": "bevestigd",
+        "infinitive": "bevestigen"
+    },
+    {
+        "subject": "Zij",
+        "aux": "heeft",
+        "complement": "een prijs gewonnen",
+        "main_verb": "gewonnen",
+        "infinitive": "winnen"
+    },
+    {
+        "subject": "Jullie",
+        "aux": "hebben",
+        "complement": "de tickets gereserveerd",
+        "main_verb": "gereserveerd",
+        "infinitive": "reserveren"
+    },
+    {
+        "subject": "U",
+        "aux": "heeft",
+        "complement": "de video bekeken",
+        "main_verb": "bekeken",
+        "infinitive": "bekijken"
+    },
+    {
+        "subject": "Het",
+        "aux": "heeft",
+        "complement": "de planten water gegeven",
+        "main_verb": "gegeven",
+        "infinitive": "geven"
+    }
+]
